@@ -35,7 +35,7 @@ luko907@hotmail.com
 
 Render movies and series
 
-### Technology stack:
+### Built with:
 
 - React/Hooks
 - Redux
@@ -84,7 +84,7 @@ Render movies and series
 
 Render by city or country using API
 
-### Technology stack:
+### Built with:
 
 - Javascript
 - API Fetch
