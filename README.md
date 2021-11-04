@@ -58,16 +58,16 @@ Render movies and series
 ## Android/iOS
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/48270029/139946822-89e230ce-701f-40eb-8e28-d59a62919839.png" />
-  <img src="https://user-images.githubusercontent.com/48270029/139946825-080628c2-4083-408e-9a8a-dfb98474fba6.png" />
+  <img src="https://user-images.githubusercontent.com/48270029/140329935-6433117d-13bb-4a39-88e6-dbc44687e314.png" />
+  <img src="https://user-images.githubusercontent.com/48270029/140329948-2d498532-dd4e-45c2-95be-6e2ba9bbf212.png" />
 </div>
 
 <br />
 <br />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/48270029/139948054-62ff3f91-2ab1-4daf-900f-3937aec93240.png" />
-  <img src="https://user-images.githubusercontent.com/48270029/139946832-e5e3d743-ab2a-48a4-ae50-0b063abc7794.png" />
+  <img src="https://user-images.githubusercontent.com/48270029/140329951-0c3dc74c-2262-4f28-a83a-4cf6beaa6869.png" />
+  <img src="https://user-images.githubusercontent.com/48270029/140329953-8541cceb-6a1f-472f-822d-178e7c3b3d35.png" />
 </div>
 
 ## Desktop View
@@ -104,16 +104,16 @@ Render by city or country using API
 ## Android/iOS
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/48270029/139955317-ac6b8a70-42bb-40b3-a078-945b384495df.png" />
-  <img src="https://user-images.githubusercontent.com/48270029/139955318-67e60fa9-225a-42b3-a4fd-f1cccdb71f07.png" />
+  <img src="https://user-images.githubusercontent.com/48270029/140330786-4d89290e-e3c9-4beb-ad1b-c122b321e89c.png" />
+  <img src="https://user-images.githubusercontent.com/48270029/140330796-af539b29-3610-4f72-bfe6-b1af77495dd6.png" />
 </div>
 
 <br />
 <br />
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/48270029/139955319-bbe3af9d-7b37-4d45-9227-1e3644c2026d.png" />
-  <img src="https://user-images.githubusercontent.com/48270029/139955321-8ab2b5a5-e138-43b4-bac1-9f7cb35af3f6.png" />
+  <img src="https://user-images.githubusercontent.com/48270029/140330798-e2fdbe2f-b695-4275-bb7f-36d73d77d800.png" />
+  <img src="https://user-images.githubusercontent.com/48270029/140330800-81681919-604f-4bf3-a2b7-92075c889aae.png" />
 </div>
 
 ## Desktop View
